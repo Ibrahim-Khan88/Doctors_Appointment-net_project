@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Doctors Appointment.props" />
-</Project>
